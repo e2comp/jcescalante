@@ -103,8 +103,12 @@
         <p>An example image illustrating cybersecurity concepts.</p>
         <h3>Video Example</h3>
         <video controls>
-            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-            Your browser does not support the video tag.
+            <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/Yr0xPVFcf-U?pp=ygUOY3liZXIgc2VjdXJpdHk%3D" 
+        title="YouTube video player" frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
         </video>
         <p>A video demonstrating computer security practices.</p>
         <h3>Audio Example</h3>
