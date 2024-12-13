@@ -102,14 +102,12 @@
         <img src="Messenger_creation_2C94ACB3-AF07-4AEF-8CA2-B5FF3D79B0BD.jpeg" alt="Example illustration">
         <p>An example image illustrating cybersecurity concepts.</p>
         <h3>Video Example</h3>
-        <video controls>
             <iframe width="560" height="315" 
         src="https://www.youtube.com/embed/Yr0xPVFcf-U?pp=ygUOY3liZXIgc2VjdXJpdHk%3D" 
         title="YouTube video player" frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
 </iframe>
-        </video>
         <p>A video demonstrating computer security practices.</p>
         <h3>Audio Example</h3>
         <audio controls>
