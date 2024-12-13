@@ -99,7 +99,7 @@
         </p>
         <h2>Multimedia Examples</h2>
         <h3>Image Example</h3>
-        <img src="https://via.placeholder.com/600x300" alt="Example illustration">
+        <img src="Messenger_creation_2C94ACB3-AF07-4AEF-8CA2-B5FF3D79B0BD.jpeg" alt="Example illustration">
         <p>An example image illustrating cybersecurity concepts.</p>
         <h3>Video Example</h3>
         <video controls>
